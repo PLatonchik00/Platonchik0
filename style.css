@@ -1,0 +1,23 @@
+.container{
+    margin: 0px 40px;
+}
+.header-logo{
+    height: 60px;
+    width: auto;
+}
+
+nav,ul,li{
+    display: inline;
+}
+.header-menu{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-menu-item{
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: blue;
+}
